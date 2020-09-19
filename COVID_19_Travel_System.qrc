@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/COVID_19_Travel_System">
+        <file>Resources/Main.png</file>
+        <file>Resources/Search.png</file>
+        <file>Resources/Airplane.png</file>
+        <file>Resources/Bus.png</file>
+        <file>Resources/Train.png</file>
+        <file>Resources/Finished.png</file>
+        <file>Resources/Wait.png</file>
+        <file>Resources/Title.png</file>
+        <file>Resources/Map.png</file>
+        <file>Resources/Hang.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COVID_19_Travel_System", "COVID_19_Travel_System.vcxproj", "{DF598C0B-601C-41B2-B46D-D10A1A517BE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release_DDL|x64 = Release_DDL|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF598C0B-601C-41B2-B46D-D10A1A517BE1}.Debug|x64.ActiveCfg = Debug|x64
+		{DF598C0B-601C-41B2-B46D-D10A1A517BE1}.Debug|x64.Build.0 = Debug|x64
+		{DF598C0B-601C-41B2-B46D-D10A1A517BE1}.Release_DDL|x64.ActiveCfg = Release_DDL|x64
+		{DF598C0B-601C-41B2-B46D-D10A1A517BE1}.Release_DDL|x64.Build.0 = Release_DDL|x64
+		{DF598C0B-601C-41B2-B46D-D10A1A517BE1}.Release|x64.ActiveCfg = Release|x64
+		{DF598C0B-601C-41B2-B46D-D10A1A517BE1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {274BFD51-BAF6-4195-8489-58D24C435ABB}
+	EndGlobalSection
+EndGlobal
